@@ -15,25 +15,21 @@
 <p align="center"><samp>
   <!-- Technologies -->
         <!-- JavaScript -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
+        <a href="https://github.com/dancingdevv/dancingdevv/blob/main/README.md" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
         <!-- Python -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        <a href="https://github.com/dancingdevv/dancingdevv/blob/main/README.md" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         </a>
-        <!-- NextJS -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="NextJS"
-                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
+        <!-- PHP -->
+        <a href="https://github.com/dancingdevv/dancingdevv/blob/main/README.md" target="_blank"><img alt="PHP"
+                        src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white">
         </a>
-        <!-- TailwindCSS -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
-        </a>
-        <!-- Arduino -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
-        </a>
+        <!-- Java -->
+        <a href="https://github.com/dancingdevv/dancingdevv/blob/main/README.md" target="_blank"><img alt="Java"
+                        src="https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=java&logoColor=white">
+        
   </samp>
 </p>
 
