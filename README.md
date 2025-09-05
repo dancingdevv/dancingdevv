@@ -1,5 +1,20 @@
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <br />
+  <br />
 
-<h4 align="center"><samp> Hi there 👋🏾 I'm Celein M. Laniohan and welcome to my Github! I'm passionate about technology, problem-solving, and building projects that make an impact. 🐍 ☁️ </samp></h4>
+<h2 align="center" style="color:#1E90FF; font-family:'Comic Sans MS', cursive; font-weight:bold;">
+  Hi there 👋🏾 I'm <span style="color:#FF4500;">Celein M. Laniohan</span>  
+</h2>
+
+<p align="center" style="color:#444; font-size:16px; font-family:'Verdana';">
+  I'm passionate about <b style="color:#1E90FF;">technology</b>,  
+  <b style="color:#32CD32;">problem-solving</b>,  
+  and <b style="color:#FF69B4;">building projects</b> that make an impact. 🐍 ☁️  
+</p>
 
 <p align="center">
   <img width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFtdHh1ZXZpMzdsOWR0bW10czNtY240bTlxMmg5a296Znp3Z3ZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif">
