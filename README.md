@@ -1,10 +1,3 @@
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <br />
-  <br />
 
 <h2 align="center" style="color:#1E90FF; font-family:'Comic Sans MS', cursive; font-weight:bold;">
   Hi there 👋🏾 I'm <span style="color:#FF4500;">Celein M. Laniohan</span>  
